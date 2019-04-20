@@ -35,13 +35,11 @@
             "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555742994217,
-            "changeTime": 1555742994217,
-            "contentHash": "a0030d42f6f61cf8bafda6dd54980991bb2dd1b7",
+            "modifiedTime": 1555749247299,
+            "changeTime": 1555749247299,
+            "contentHash": "a99b08e3d2d6efd88c4b56f5f01b594674d06db0",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -77,16 +75,14 @@
     [
         "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\layouts\\TEST_app__c-TEST app Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\layouts\\TEST_app__c-TEST app Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 2654,
-            "modifiedTime": 1555742994187,
-            "changeTime": 1555742994187,
-            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2935,
+            "modifiedTime": 1555749865082,
+            "changeTime": 1555749865082,
+            "contentHash": "f32d2ea9a9eeec6dacdbe4f8bed2d7067c6c88ba"
         }
     ],
     [
@@ -125,13 +121,11 @@
             "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\objects\\TEST_app__c",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1555742994221,
-            "changeTime": 1555742994221,
-            "contentHash": "1cdad7329f5a27ac2f4f2144231f184f608e3a48",
+            "modifiedTime": 1555749247275,
+            "changeTime": 1555749247275,
+            "contentHash": "dfe99da855ae1abbc0a37e09613c5d10cc96645b",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u"
         }
     ],
     [
@@ -192,6 +186,110 @@
             "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\objects\\TEST_app__c\\fields\\dxfield__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\objects\\TEST_app__c\\fields\\dxfield__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 436,
+            "modifiedTime": 1555749247285,
+            "changeTime": 1555749247285,
+            "contentHash": "d8ede89df811ef22a29bc8369f8c168fd7215cc5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4870,
+            "modifiedTime": 1555749865095,
+            "changeTime": 1555749865095,
+            "contentHash": "898bea9bb450d66386458175e1639dca46d9bdbc"
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4870,
+            "modifiedTime": 1555749865110,
+            "changeTime": 1555749865110,
+            "contentHash": "898bea9bb450d66386458175e1639dca46d9bdbc"
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5208,
+            "modifiedTime": 1555749865121,
+            "changeTime": 1555749865121,
+            "contentHash": "ccc0c09720773e3f27447568551efaf5fde5b9b9"
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19347,
+            "modifiedTime": 1555749865168,
+            "changeTime": 1555749865168,
+            "contentHash": "ea5ef50efcc6e2cb8bbb9eaf847e04cae122bbb5"
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\objects\\TEST_app__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\objects\\TEST_app__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555749865070,
+            "changeTime": 1555749865070,
+            "contentHash": "cea474692d975adcf4468464d16c92f083d2a163"
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555749247347,
+            "changeTime": 1555749247347,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\objects\\TEST_app__c\\fields\\dxfield_AN__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Piyush - Work\\Projects\\Automation tools\\Salesforce DX\\mydxproject\\force-app\\main\\default\\objects\\TEST_app__c\\fields\\dxfield_AN__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 333,
+            "modifiedTime": 1555749865071,
+            "changeTime": 1555749865071,
+            "contentHash": "f2037e6229a3ac028f173089002d1cf5e1266c9b"
         }
     ]
 ]
